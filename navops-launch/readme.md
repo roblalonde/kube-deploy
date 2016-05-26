@@ -1,4 +1,4 @@
-*Navops Launch* http://www.navops.io/img/launch-logo.png
+*Navops Launch* (http://www.navops.io/img/launch-logo.png)
 ---
 
 Navops launch allows you to easily build a Kubernetes cluster on bare metal machines or in the cloud. Cloud support includes GCE and AWS  at this time.
